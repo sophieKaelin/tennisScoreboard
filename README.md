@@ -22,3 +22,11 @@ r = reset match
 < = increase left players score
 > = increase right players score 
 ```
+
+## How to Use
+To use this program you must download Processing to compile and display the scoreboard. Then clone this repo or download files. Make sure you download all data files and put everything inside a folder labeled <u><b>tennisScoreboard</u></b>
+
+## Known Bugs
+* add link to Processing "How to Use"
+* Fix font size bug
+* Improve winning screen
