@@ -41,7 +41,7 @@ void setup() {
   rect(width*3/4+width/16, height/2, width/5.5, height/5);
   
   textFont(defaultFont); //set font for rest of text
-  textSize(width/10);
+  textSize(100);
 }
 
 void draw() {
