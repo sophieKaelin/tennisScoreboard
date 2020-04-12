@@ -26,7 +26,13 @@ r = reset match
 ## How to Use
 To use this program you must download Processing to compile and display the scoreboard. Then clone this repo or download files. Make sure you download all data files and put everything inside a folder labeled <u><b>tennisScoreboard</u></b>
 
-## Known Bugs
+## Known Bugs - (future improvements)
 * add link to Processing "How to Use"
 * Fix font size bug
 * Improve winning screen
+* Show who is on serve
+* Programing tie breaks
+* Provide undo method
+* Display when it is match point
+* Display when it is break point
+* Set initial score to 0-0 on screen
